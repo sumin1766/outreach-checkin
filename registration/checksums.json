@@ -1,7 +1,11 @@
 {
+  "outreach-checkin-connection-fix.ait": {
+    "bytes": 53101,
+    "sha256": "42425136db421edf3f3d4469c51ece221898868c89003ab33c5d220045e18c64"
+  },
   "outreach-checkin-registration.ait": {
-    "bytes": 52502,
-    "sha256": "c074f8c206a4b2e41f9aa408c488f63033271e600177af751b45c3112b10bcae"
+    "bytes": 53101,
+    "sha256": "42425136db421edf3f3d4469c51ece221898868c89003ab33c5d220045e18c64"
   },
   "logo-light-600.png": {
     "bytes": 250027,
@@ -12,19 +16,27 @@
     "sha256": "f52085752ca98af19ec34c986ef7eace379c3703a920d90bdb689bc23400854e"
   },
   "app-listing.json": {
-    "bytes": 3896,
-    "sha256": "fe9c9745b7dd80bf78f8d88083dfa3c237cd06cecc1af2af8194977efcb6b036"
+    "bytes": 4365,
+    "sha256": "613e667bb35ebf63a3f8c484c20eada67abf44168ca4da448ae82906492a8dfc"
   },
   "release-notes.txt": {
-    "bytes": 981,
-    "sha256": "bd1798e7450a9c4e7ae468feeea6b66ec524ec976026e77e0d744aa645fa363b"
+    "bytes": 830,
+    "sha256": "0bf3e47e60416ab44b7a3274799e4b209ce315b19b30d975872f55355ea2fd2a"
   },
   "registration-guide.txt": {
-    "bytes": 3874,
-    "sha256": "93d893bb88fb89192a84ee272908ad7063240d4603d56c5f34d3e95b190c3a92"
+    "bytes": 3867,
+    "sha256": "222290d88797c5584ebc7fc4b4cc7a61d6d7edda1fe3d5f61ca8e95b601e52d3"
   },
   "build-info.json": {
-    "bytes": 491,
-    "sha256": "207c1c82755a827fc43f0a376132b23bfc737f1e5ea10c3435e261013e5925ad"
+    "bytes": 792,
+    "sha256": "0d5c2e64216ce8230dd100986b6d767847c43df158aee077293819fbfafa52b3"
+  },
+  "feature-links.json": {
+    "bytes": 511,
+    "sha256": "50fc22f9448ab37b8b96901d2a5cde250d9d0c9b2e40b4393512bb64fabb51b9"
+  },
+  "toss-login-setup.md": {
+    "bytes": 6241,
+    "sha256": "39dc03563ab01c91bdfd4ea29a3ae734841fb768e4b27907f60c703a3225232f"
   }
 }

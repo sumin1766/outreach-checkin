@@ -3,7 +3,13 @@
   "displayName": "지금, 함께",
   "apiOrigin": "https://outreach-checkin.vercel.app",
   "purpose": "registration-and-testing",
-  "status": "Toss server login and miniapp origin setup pending",
+  "status": "Server Toss exchange implemented; actual partner certificates and real device validation pending",
+  "deepLinks": {
+    "attendance": "intoss://outreach-checkin/attendance",
+    "stats": "intoss://outreach-checkin/stats",
+    "members": "intoss://outreach-checkin/members"
+  },
+  "sessionMode": "server-issued app session bearer; no cross-site cookies",
   "sampleMemberCount": 0,
   "sampleAttendanceCount": 0,
   "sourceFiles": [
@@ -13,5 +19,5 @@
     "sources/style.css"
   ],
   "permissions": [],
-  "deploymentId": "01a1b65b-c978-70da-b113-2a54080a1baf"
+  "deploymentId": "01a1b674-9a10-7213-a273-153de3d8fad7"
 }

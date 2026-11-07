@@ -1,0 +1,23 @@
+[
+  {
+    "ko": "출석체크",
+    "en": "Attendance Check-In",
+    "type": "specific-screen",
+    "path": "attendance",
+    "url": "intoss://outreach-checkin/attendance"
+  },
+  {
+    "ko": "출석 집계",
+    "en": "Attendance Reports",
+    "type": "specific-screen",
+    "path": "stats",
+    "url": "intoss://outreach-checkin/stats"
+  },
+  {
+    "ko": "조원 관리",
+    "en": "Member Management",
+    "type": "specific-screen",
+    "path": "members",
+    "url": "intoss://outreach-checkin/members"
+  }
+]
