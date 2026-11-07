@@ -16,27 +16,27 @@
     "sha256": "f52085752ca98af19ec34c986ef7eace379c3703a920d90bdb689bc23400854e"
   },
   "app-listing.json": {
-    "bytes": 4365,
-    "sha256": "613e667bb35ebf63a3f8c484c20eada67abf44168ca4da448ae82906492a8dfc"
+    "bytes": 4349,
+    "sha256": "defbf34e2670444dee48dd5ffa0b5733c007a5caa46a14c2c03eac790af8c5d1"
   },
   "release-notes.txt": {
     "bytes": 830,
     "sha256": "0bf3e47e60416ab44b7a3274799e4b209ce315b19b30d975872f55355ea2fd2a"
   },
   "registration-guide.txt": {
-    "bytes": 3867,
-    "sha256": "222290d88797c5584ebc7fc4b4cc7a61d6d7edda1fe3d5f61ca8e95b601e52d3"
+    "bytes": 3851,
+    "sha256": "3071cddb918e28ac698071b34ae87881480f604931f6fc0b1a775fc168610a8b"
   },
   "build-info.json": {
     "bytes": 792,
     "sha256": "0d5c2e64216ce8230dd100986b6d767847c43df158aee077293819fbfafa52b3"
   },
   "feature-links.json": {
-    "bytes": 511,
-    "sha256": "50fc22f9448ab37b8b96901d2a5cde250d9d0c9b2e40b4393512bb64fabb51b9"
+    "bytes": 495,
+    "sha256": "10dc03d66a8cb346e436061fe1f97884e1596de14c6cd5f6cce5c6ed5458a607"
   },
   "toss-login-setup.md": {
-    "bytes": 6241,
-    "sha256": "39dc03563ab01c91bdfd4ea29a3ae734841fb768e4b27907f60c703a3225232f"
+    "bytes": 6225,
+    "sha256": "ad2e771b62d9e8753b87a2875bcd2245a062bb872b762ae55ecf784f0309d2f3"
   }
 }

@@ -51,9 +51,9 @@ https://outreach-checkin.private-apps.tossmini.com
 
 | 한국어 | 영어 | 화면 주소 입력값 |
 | --- | --- | --- |
-| 출석체크 | Attendance Check-In | `attendance` |
-| 출석 집계 | Attendance Reports | `stats` |
-| 조원 관리 | Member Management | `members` |
+| 출석체크 | Check In | `attendance` |
+| 출석 집계 | Attendance Stats | `stats` |
+| 조원 관리 | Manage Members | `members` |
 
 전체 주소는 각각 `intoss://outreach-checkin/attendance`, `intoss://outreach-checkin/stats`, `intoss://outreach-checkin/members`입니다. 앱은 HTTPS pathname, `?page=...`, `#/...` 진입도 처리합니다. 미로그인 때는 로그인 화면을 먼저 열고, 동일 앱 실행 흐름에서 로그인 완료 후 목적 화면을 유지합니다. 권한이 승인 대기라면 목적 화면보다 승인 대기 화면을 우선합니다.
 

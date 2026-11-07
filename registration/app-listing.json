@@ -51,21 +51,21 @@
   "consoleFeatures": [
     {
       "ko": "출석체크",
-      "en": "Attendance Check-In",
+      "en": "Check In",
       "type": "specific-screen",
       "path": "attendance",
       "url": "intoss://outreach-checkin/attendance"
     },
     {
       "ko": "출석 집계",
-      "en": "Attendance Reports",
+      "en": "Attendance Stats",
       "type": "specific-screen",
       "path": "stats",
       "url": "intoss://outreach-checkin/stats"
     },
     {
       "ko": "조원 관리",
-      "en": "Member Management",
+      "en": "Manage Members",
       "type": "specific-screen",
       "path": "members",
       "url": "intoss://outreach-checkin/members"

@@ -31,9 +31,9 @@ appName: outreach-checkin
 명단·출석을 한 번에 등록 — 관리자는 CSV 파일로 일괄 등록하고 새 조원 추가 여부를 확인해요.
 
 콘솔의 주요 기능: 모두 특정 화면 선택. 접두사 intoss://outreach-checkin/ 뒤 입력값:
-출석체크 / Attendance Check-In: attendance（전체 주소 intoss://outreach-checkin/attendance）
-출석 집계 / Attendance Reports: stats（전체 주소 intoss://outreach-checkin/stats）
-조원 관리 / Member Management: members（전체 주소 intoss://outreach-checkin/members）
+출석체크 / Check In: attendance（전체 주소 intoss://outreach-checkin/attendance）
+출석 집계 / Attendance Stats: stats（전체 주소 intoss://outreach-checkin/stats）
+조원 관리 / Manage Members: members（전체 주소 intoss://outreach-checkin/members）
 
 출시 노트
 교회 전도팀 출석 관리 앱의 등록·기기 테스트 수정 버전입니다.
