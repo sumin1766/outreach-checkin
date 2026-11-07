@@ -1,0 +1,30 @@
+{
+  "outreach-checkin-registration.ait": {
+    "bytes": 52502,
+    "sha256": "c074f8c206a4b2e41f9aa408c488f63033271e600177af751b45c3112b10bcae"
+  },
+  "logo-light-600.png": {
+    "bytes": 250027,
+    "sha256": "caab17ccd1885e394ae0f06c9f7af3bf069d3da7f4f65e243db3083a407ab06b"
+  },
+  "logo-dark-600.png": {
+    "bytes": 237169,
+    "sha256": "f52085752ca98af19ec34c986ef7eace379c3703a920d90bdb689bc23400854e"
+  },
+  "app-listing.json": {
+    "bytes": 3896,
+    "sha256": "fe9c9745b7dd80bf78f8d88083dfa3c237cd06cecc1af2af8194977efcb6b036"
+  },
+  "release-notes.txt": {
+    "bytes": 981,
+    "sha256": "bd1798e7450a9c4e7ae468feeea6b66ec524ec976026e77e0d744aa645fa363b"
+  },
+  "registration-guide.txt": {
+    "bytes": 3874,
+    "sha256": "93d893bb88fb89192a84ee272908ad7063240d4603d56c5f34d3e95b190c3a92"
+  },
+  "build-info.json": {
+    "bytes": 491,
+    "sha256": "207c1c82755a827fc43f0a376132b23bfc737f1e5ea10c3435e261013e5925ad"
+  }
+}

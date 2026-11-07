@@ -1,0 +1,17 @@
+{
+  "appName": "outreach-checkin",
+  "displayName": "지금, 함께",
+  "apiOrigin": "https://outreach-checkin.vercel.app",
+  "purpose": "registration-and-testing",
+  "status": "Toss server login and miniapp origin setup pending",
+  "sampleMemberCount": 0,
+  "sampleAttendanceCount": 0,
+  "sourceFiles": [
+    "sources/app.js",
+    "sources/bootstrap.js",
+    "sources/index.html",
+    "sources/style.css"
+  ],
+  "permissions": [],
+  "deploymentId": "01a1b65b-c978-70da-b113-2a54080a1baf"
+}
