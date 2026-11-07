@@ -1,0 +1,21 @@
+import('./app.js').catch(() => {
+  const container = document.getElementById('app');
+  container.replaceChildren();
+  const panel = document.createElement('div');
+  panel.className = 'login-wrap';
+  const title = document.createElement('h1');
+  title.textContent = '화면을 불러오지 못했어요';
+  const message = document.createElement('p');
+  message.textContent = '서버 실행 상태를 확인하거나, 서버 없이 열 수 있는 파일 미리보기를 사용해주세요.';
+  const reload = document.createElement('button');
+  reload.className = 'primary';
+  reload.textContent = '다시 불러오기';
+  reload.onclick = () => location.reload();
+  const link = document.createElement('a');
+  link.className = 'secondary';
+  link.href = './preview.html';
+  link.download = '지금-함께-미리보기.html';
+  link.textContent = '파일 미리보기 내려받기';
+  panel.append(title, message, reload, link);
+  container.append(panel);
+});
